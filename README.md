@@ -1,4 +1,4 @@
-<h1 align="center">🐼 Yaroslav140 / younger coder</h1>
+<h1 align="center">🐼 YA-Rick </h1>
 
 ###
 
