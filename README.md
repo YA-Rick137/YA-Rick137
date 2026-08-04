@@ -19,7 +19,6 @@
 </p>
 
 <p align="center">
-  //в будущем изменить на свой nick
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yaroslav140&theme=shadow_red&hide_border=true&locale=ru" alt="wakatime" />
 </p>
 
