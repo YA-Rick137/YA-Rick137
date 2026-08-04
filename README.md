@@ -46,19 +46,19 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Yaroslav140&theme=shadow_red&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=YA-Rick13&theme=shadow_red&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=@Yaroslav140&theme=shadow_red&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=@YA-Rick13&theme=shadow_red&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yaroslav140/Yaroslav140/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yaroslav140/Yaroslav140/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Yaroslav140/Yaroslav140/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YA-Rick137/YA-Rick13/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YA-Rick13/YA-Rick13/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YA-Rick13/YA-Rick13/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
