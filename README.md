@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YA-Rick137&theme=shadow_red&show_icons=true&hide_border=true&locale=ru" alt="stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=YA-Rick137&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
